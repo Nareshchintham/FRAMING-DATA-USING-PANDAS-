@@ -1,2 +1,2 @@
 # FRAMING-DATA-USING-PANDAS-
-i explained how to frame the data using pandas &amp; using seaborn draw distrubtion graphs
+frame the data using pandas &amp; using seaborn visulatization in distrubtion graphs(statistics)
