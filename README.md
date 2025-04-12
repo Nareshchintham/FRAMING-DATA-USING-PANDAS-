@@ -1,2 +1,2 @@
 # FRAMING-DATA-USING-PANDAS-
-frame the data using pandas &amp; using seaborn visulatization in distrubtion graphs
+frame the data using pandas and using seaborn visulatization in distrubtion graphs
